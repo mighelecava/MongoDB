@@ -2,7 +2,7 @@
 
 Michele Cavaliere
 
-Internship for summer 2022
+Internship for summer 2021
 
 ## Command to run 
 python3 challenge_code.py -f "test.json"
