@@ -40,7 +40,7 @@ def main():
         done = True
 
     if(flat_json_dict != None and done):
-        with open("output_file", 'w') as file:
+        with open("output_file.json", 'w') as file:
             json.dump(flat_json_dict, file)
             file.close
 
